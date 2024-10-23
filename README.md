@@ -42,6 +42,6 @@ We welcome contributions! 🎉
 
 ## **Acknowledgments**  
 Special thanks to:  
-- **Hemanand Vadivel** and **Dhaval Patel** for their mentorship.  
+- **Dhaval Patel** and **Hemanand Vadivel** for their mentorship.  
 - This project is part of the **Power BI course by CodeBasis**.  
 
